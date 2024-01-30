@@ -31,4 +31,4 @@
 
 ##
 
-![Snake animation](https://github.com/joaoagr1/joaoagr1/blob/output/github-contribution-grid-snake.svg)
+![image](https://github.com/joaoagr1/joaoagr1/assets/125477822/2763351e-e73b-4421-ab1f-4fc8d68534a8)
