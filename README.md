@@ -30,7 +30,11 @@
   <a href="https://www.linkedin.com/in/jo%C3%A3o-rolo-023932238/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
    
 
-
+<div align="center">
+<br><p align="centre"><b>Visitors Count</b></p>  
+<p align="center"><img align="center" src="https://profile-counter.glitch.me/{joaoagr1}/count.svg" /></p> 
+<br>
+</div>
 
 
 
