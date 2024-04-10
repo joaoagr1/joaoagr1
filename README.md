@@ -27,8 +27,15 @@
 </div>
 
 ##
-
+##
   
+<div>
+<br><p align="centre"><b>Profile Access:</b></p>  
+<p><img src="https://profile-counter.glitch.me/{joaoagr1}/count.svg" /></p> 
+<br>
+</div>
+
+##  
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -41,13 +48,6 @@
   />
 </picture>
 
-  ##
-  teste
-<div>
-<br><p align="centre"><b>Profile Access:</b></p>  
-<p><img src="https://profile-counter.glitch.me/{joaoagr1}/count.svg" /></p> 
-<br>
-</div>
-
+  
 
 
