@@ -1,4 +1,5 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=13ad02&size=35&center=false&vCenter=false&width=1000&lines=HELLO,+My+name+is+João+Rollo;I'm+19+years+old;I'm+from+Brazil;Future+software+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=13ad02&size=35&center=false&vCenter=false&width=1000&lines=HELLO,+My+name+is+João+Rollo;I'm+19+years+old;I'm+from+Brazil;Full-stack+developer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
 - 🔭 I’m currently working as an intern with full-stack development. 
