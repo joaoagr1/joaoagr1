@@ -1,9 +1,9 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=13ad02&size=35&center=false&vCenter=false&width=1000&lines=HELLO,+My+name+is+João+Rollo;I'm+19+years+old;I'm+from+Brazil;Future+software+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
-- 🔭 I’m currently working as an intern with mobile applications and maintaining Java backend applications. 
+- 🔭 I’m currently working as an intern with full-stack development. 
 - 🌱 I’m currently learning flutter, pl/sql and docker for devops.
-- 📫 How to reach me: joao.garciarolo@hotmail.com.
+- 📫 How to reach me: joao.rollo1@gmail.com.
 - ⚡ Fun fact: I am a devoted fan of tabletop RPGs, especially Dungeons and Dragons.
   ##
 <div> 
@@ -26,8 +26,7 @@
   <img align="center" alt="" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'>
 </div>
 
-##
-##
+
   
 <div>
 <br><p align="centre"><b>Profile Access:</b></p>  
@@ -35,7 +34,7 @@
 <br>
 </div>
 
-##  
+ 
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
