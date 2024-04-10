@@ -1,4 +1,3 @@
-### Hi, I'm João Rolo 👋
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=1dfa05&size=35&center=false&vCenter=false&width=1000&lines=HELLO,+My+name+is+João+Rollo;I'm+19+years+old;I'm+from+Brazil;Future+software+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
 
 
