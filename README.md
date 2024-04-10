@@ -1,4 +1,6 @@
 ### Hi, I'm João Rolo 👋
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=076D8B&size=35&center=false&vCenter=false&width=1000&lines=HELLO,+My+name+is+Igor+Bondezam;I'm+19+years+old;I'm+from+Brazil;Future+software+engineer;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 
 - 🔭 I’m currently working as an intern with mobile applications and maintaining Java backend applications. 
 - 🌱 I’m currently learning flutter, pl/sql and docker for devops.
