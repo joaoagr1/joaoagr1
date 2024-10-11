@@ -28,6 +28,7 @@
   <img align="center" alt="" height="30" width="40" src='https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg'>
 </div>
 
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=joaoagr1)](https://github.com/anuraghazra/github-readme-stats)
 
   
 <div>
